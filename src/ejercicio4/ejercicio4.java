@@ -34,7 +34,10 @@ public class ejercicio4 {
         return transformada;
 
     }
-
+    
+    
+    
+//cambiar el int (absoluto) a bin   
     public static int binTodec(String numero) {
         int decimal = 0;
         int largo = numero.length();
